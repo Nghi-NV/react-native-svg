@@ -49,7 +49,6 @@
     "gradient"
   ],
   "scripts": {
-    "bob": "bob build",
     "flow": "flow src",
     "flowgen": "flowgen src/index.d.ts -o src/index.js.flow",
     "flowtyped": "flow-typed install",
